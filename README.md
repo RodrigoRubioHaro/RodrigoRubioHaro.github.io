@@ -2,7 +2,7 @@
 
 Hola! Soy Roy. Desarrollador de Software.
 
-## Projectos
+## Proyectos
 - [Blog (+4000 visitas)](https://rubioharosd.blogspot.com/)
 - [Github Principal](https://github.com/RubioHaro)
 - [LinkedInd](https://www.linkedin.com/in/rodrigo-rubio-haro/)
